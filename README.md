@@ -44,4 +44,4 @@ Test Arduino script to create simple traffic lights
     }
     
   
-![Breadboard and Arduino pinout](https://files.slack.com/files-tmb/T0274SB0W-F3592JYDN-f4f4dde4ea/screenshot_2016-11-22_20.39.55_360.png "Breadboard and Arduino pinout")
+![Breadboard and Arduino pinout](http://i.imgur.com/lv244m7.png "Breadboard and Arduino pinout")
