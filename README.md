@@ -1,6 +1,8 @@
 # arduino-trafficlights
 Test Arduino script to create simple traffic lights
 
+![Breadboard and Arduino pinout](http://i.imgur.com/lv244m7.png "Breadboard and Arduino pinout")
+
     int red = 13;
     int amber = 12;
     int green = 11;
@@ -42,6 +44,3 @@ Test Arduino script to create simple traffic lights
       digitalWrite(amber, LOW);
       delay(5000);
     }
-    
-  
-![Breadboard and Arduino pinout](http://i.imgur.com/lv244m7.png "Breadboard and Arduino pinout")
