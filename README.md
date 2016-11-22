@@ -43,5 +43,5 @@ Test Arduino script to create simple traffic lights
       delay(5000);
     }
     
-    
-https://www.dropbox.com/s/xx16mrnt7hlvpyj/Screenshot%202016-11-22%2020.39.55.png?dl=0
+  
+![Breadboard and Arduino pinout](https://www.dropbox.com/s/xx16mrnt7hlvpyj/Screenshot%202016-11-22%2020.39.55.png?dl=0 "Breadboard and Arduino pinout")
